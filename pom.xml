@@ -12,7 +12,7 @@
         <docx4j.version>6.1.2</docx4j.version>
         <docx4j-importxhtml.version>8.2.1</docx4j-importxhtml.version>
         <faker.version>1.0.2</faker.version>
-        <html2pdf.version>3.0.5</html2pdf.version>
+        <html2pdf.version>4.0.2</html2pdf.version>
         <jackson.version>2.10.5.1</jackson.version>
         <nifi.version>1.14.0</nifi.version>
         <pebble.version>3.1.5</pebble.version>
